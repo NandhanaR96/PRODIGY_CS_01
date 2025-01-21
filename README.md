@@ -19,14 +19,9 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
 
  - Clone the repository to your local machine:
    
-'''bash
-    git clone https://github.com/NandhanaR96/caesar-cipher.git
-
-### Navigation To Project Directory
-
--cd caesar-cipher
+     git clone https://github.com/NandhanaR96/caesar-cipher.git
 
 ### Run The Program
 
--python caesar_cipher.py
+- caesar cipher.py
 
