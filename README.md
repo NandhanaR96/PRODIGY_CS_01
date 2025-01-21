@@ -12,3 +12,10 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
 # GETTING STARTED
 
 # PREREQUISITES
+
+  -Python 3.x installed on your machine.
+
+# INSTALLATION
+
+ -Clone the repository to your local machine:
+       
