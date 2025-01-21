@@ -46,9 +46,10 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
    2. Decrypt text
    3. Quit
    Choose an option: 2
-   Enter the text to decrypt: KHOOR ZRUOG!
+
+  Enter the text to decrypt: KHOOR ZRUOG!
    
-   Enter the shift value: 3
+  Enter the shift value: 3
     
    Decrypted text: HELLO WORLD!
    
