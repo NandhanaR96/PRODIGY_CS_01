@@ -13,9 +13,10 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
 
 # PREREQUISITES
 
-  -Python 3.x installed on your machine.
+  - Python 3.x installed on your machine.
 
 # INSTALLATION
 
- -Clone the repository to your local machine:
+ - Clone the repository to your local machine:
+   git@github.com:NandhanaR96/PRODIGY_CS_07_TASK1.git
        
