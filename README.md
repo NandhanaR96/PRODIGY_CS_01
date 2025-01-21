@@ -27,7 +27,7 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
 
 # SAMPLE OUTPUT :
 
-   #Caesar Cipher Program
+   ### Caesar Cipher Program
   
    1. Encrypt text
    2. Decrypt text
@@ -40,13 +40,12 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
    
    Encrypted text: KHOOR ZRUOG!
 
-   #Caesar Cipher Program
+   ### Caesar Cipher Program
    
    1. Encrypt text
    2. Decrypt text
    3. Quit
    Choose an option: 2
-
    Enter the text to decrypt: KHOOR ZRUOG!
    
    Enter the shift value: 3
