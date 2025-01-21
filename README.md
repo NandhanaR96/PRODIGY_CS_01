@@ -21,14 +21,14 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
    
        git clone https://github.com/NandhanaR96/caesar-cipher.git
 
-### Run The Program
+# Run The Program
 
 - caesar cipher.py
 
-### SAMPLE OUTPUT :
+# SAMPLE OUTPUT :
 
-   Caesar Cipher Program
-  ------------------------
+   #Caesar Cipher Program
+  
    1. Encrypt text
    2. Decrypt text
    3. Quit
@@ -40,8 +40,8 @@ This is a simple python program that implements the Caesar Cipher algorithm to e
    
    Encrypted text: KHOOR ZRUOG!
 
-   Caesar Cipher Program
-   ------------------------
+   #Caesar Cipher Program
+   
    1. Encrypt text
    2. Decrypt text
    3. Quit
